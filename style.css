@@ -1,0 +1,39 @@
+.container{
+    background-color: aqua;
+    margin: 4em;
+}
+
+
+.container{
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    font-weight: bolder;
+    font-size: 5em;
+}
+
+.dice{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.img1{
+    padding: 2;
+    width: 25%;
+    height: 25;
+
+}
+.img2{
+    padding: auto;
+    width: 25%;
+    height: 25%;
+}
